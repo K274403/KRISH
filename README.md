@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/d97a2998c3e02ffea7940.jpg" alt="KRISH Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> KRISH </b>
 </h1>
 
 
